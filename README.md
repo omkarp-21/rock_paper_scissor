@@ -1,1 +1,2 @@
-# rock_paper_scissor
+# Rock, Paper, Scissors
+My Attempt to Learn Javascript
